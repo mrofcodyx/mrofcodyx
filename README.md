@@ -2,7 +2,7 @@
 
 
 - 🔭 Apaixonado por tecnologia
-- 🌱 Estudante segurança da informação 10/10
+- 🌱 Estudante segurança da informação
 - Pentester e Bughunter
 <div align="center">
   <a href="https://github.com/mrofcodyx">
