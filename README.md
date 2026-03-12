@@ -12,13 +12,13 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Hacker+%C3%89tico+%7C+Bug+Hunter+%7C+OSINT;Pentester+%7C+Security+Researcher;NASA+Hall+of+Fame+%F0%9F%9A%80;Feito+no+Brasil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Hacker+%C3%89tico+%7C+Bug+Hunter+%7C+OSINT;Pentester+%7C+Security+Researcher;NASA+Hall+of+Fame+%F0%9F%9A%80;Hack+is+Back+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/96667398?v=4" width="140" style="border-radius:50%" />
+  <img src="https://i.gifer.com/HASN.gif" width="340" style="border-radius:100%" />
 </div>
 
 <br>
@@ -39,7 +39,7 @@
 ┌──(mr_ofcodyx㉿kali)-[~]
 └─$ cat about.txt
 
-  Nome   : Madson Willen dos Santos Soares
+  Nome   : Madson Willen dos Santos
   Handle : mr_ofcodyx
   Role   : Ethical Hacker | Bug Hunter | OSINT Researcher
   Local  : Brasil 🇧🇷  (UTC -03:00)
@@ -50,27 +50,6 @@
   > Pentester e Bughunter ativo
   > Reconhecido pela NASA por RCE (Fev/2024) 🚀
 ```
-
----
-
-## `$ cat achievements.log`
-
-```
-[✓] NASA Hall of Fame ..................... RCE Vulnerability (Fev 2024)
-[✓] Bugcrowd Hall of Fame ................ 4 programas reconhecidos
-[✓] HackerOne Hacktivity ................. Vulnerabilidades reportadas
-[✓] US OPM ................................ Hall of Fame
-[✓] National Park Service ................. Hall of Fame  
-[✓] State of California ................... Hall of Fame
-```
-
-<div align="center">
-
-| 🚀 NASA | ⚙️ US OPM | 🏛️ NPS | 🌉 California |
-|:---:|:---:|:---:|:---:|
-| Hall of Fame | Hall of Fame | Hall of Fame | Hall of Fame |
-
-</div>
 
 ---
 
@@ -133,19 +112,6 @@
          └─ https://medium.com/@mr_ofcodyx/how-i-found-an-open-redirect-and-scaled-it-to-xss-reflected-apkpure-5845eaf40d06
          └─ POC: https://youtu.be/bWrJxg36V3E
 ```
-
----
-
-## `$ cat certifications.txt`
-
-```
-[✓] Análise de Malware Starter ................... Verificado
-[✓] Mobile Forensics Starter ..................... Verificado  
-[✓] Android Pentester ............................ Solyd
-[✓] Engenharia Social em Golpes Virtuais ......... Acadepol / Polícia Civil MG
-[✓] Foundation Level Threat Intelligence Analyst . ArcX
-```
-
 ---
 
 ## `$ connect --social`
