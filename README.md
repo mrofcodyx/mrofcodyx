@@ -130,7 +130,7 @@
 ```
 [MEDIUM] How I Found an Open Redirect and Scaled it to XSS Reflected — APKPure
          └─ robots.txt → url?q= → javascript:confirm(document.cookie)
-         └─ https://medium.com/@mr_ofcodyx/...
+         └─ https://medium.com/@mr_ofcodyx/how-i-found-an-open-redirect-and-scaled-it-to-xss-reflected-apkpure-5845eaf40d06
          └─ POC: https://youtu.be/bWrJxg36V3E
 ```
 
